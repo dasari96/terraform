@@ -18,7 +18,7 @@ aws configure
 * Add the terraform path to system variables.
 
 
-###Terraform is popular IaC (Infrastructure as a Code) tool. It is best in the market now.
+### Terraform is popular IaC (Infrastructure as a Code) tool. It is best in the market now.
 
 * **Version Control:** <br />
 
