@@ -107,11 +107,10 @@ resource "aws_instance" "terraform" {
 variable "ami" {
     default = "ami-09c813fb71547fc4f"
 }
-
 ```
 
 
 
-      "### - for bold letters"
-      "* - for points"
-      " 3 tilts ` - for copy command"
+\  ### - for bold letters
+ \     * - for points
+  \     3 tilts ` - for copy command
