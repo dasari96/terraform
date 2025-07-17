@@ -111,6 +111,9 @@ variable "ami" {
 
 
 
-  $ ### - for bold letters
-  $ * - for points
-  $ 3 tilts ` - for copy command
+  : ### - for bold letters
+
+  : * - for points
+
+  : 3 tilts ` - for copy command
+  
