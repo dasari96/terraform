@@ -14,7 +14,7 @@ variable "common_tags" {
 
 variable "zone_id" {
     default = "Z043101513OWSW7ELREJ9"
-}
+} 
 
 variable "domain_name" {
     default = "dasari.site"
