@@ -111,6 +111,6 @@ variable "ami" {
 
 
 
-### - for bold letters
-* - for points
-``` - for copy command
+"### - for bold letters"
+"* - for points"
+"``` - for copy command"
