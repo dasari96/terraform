@@ -98,7 +98,7 @@ variable "ami_id" {
 
 or
 
-"
+```
 resource "aws_instance" "terraform" {
 
     ami = var.ami
@@ -107,10 +107,10 @@ resource "aws_instance" "terraform" {
 variable "ami" {
     default = "ami-09c813fb71547fc4f"
 }
-"
+```
 
 
 
       "### - for bold letters"
-              "* - for points"
-                  "``` - for copy command"
+      "* - for points"
+      " 3 tilts ` - for copy command"
