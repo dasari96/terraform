@@ -108,3 +108,9 @@ variable "ami" {
     default = "ami-09c813fb71547fc4f"
 }
 ```
+
+
+
+### - for bold letters
+* - for points
+``` - for copy command
